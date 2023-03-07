@@ -142,3 +142,15 @@ color: black;
 .discounts{
     display: flex;
 }
+
+
+.children button{
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 15px 15px 15px 15px ;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 231, 238);
+    font-size: 18px;
+    color: rgb(10, 70, 122);
+}
