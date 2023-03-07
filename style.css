@@ -1,0 +1,144 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    display: flex;
+    margin-left: 100px;
+    padding-top: 2px;
+    position: absolute;
+    color: beige;
+    font-size: 18px;
+    
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 70px;
+}
+.navbar h3{
+    font-size: 30px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin-left: 400px;
+}
+.navbar ul li{
+    margin: 20px;
+}
+.homepage{
+    background-image: url(./images/lan-deng-quddu_dZKkQ-unsplash.jpg);
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home{
+    background-color: rgba(82, 12, 221, 0.7);
+    height: 600px;
+    padding-top: 300px;
+}
+.home h1 ,p{
+    text-align: center;
+    color: rgb(252, 248, 242);
+  
+   
+   
+}
+.home{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.home button{
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 15px 15px 15px 15px ;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 231, 238);
+    font-size: 18px;
+    color: rgb(10, 70, 122);
+}
+.official{
+    background-color: rgb(17, 6, 63);
+}
+.official h1{
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 30px;
+}
+.wear p{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.official button{
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 5px 15px 5px 15px ;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 231, 238);
+    
+    color: rgb(10, 70, 122);
+    margin-bottom: 10px;
+}
+.wear{
+    display: flex;
+    margin-left: 10px;
+   
+}
+.wear h4{
+    color: aliceblue;
+}
+.official img{
+    display: flex;
+    height: 350px;
+    width: 350px;
+    margin: 30px;
+    
+}
+.outfit{
+    display: flex;
+    margin-left: 100px;
+}
+.outfit p{
+color: black;
+}
+.casual h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.casual img{
+    display: flex;
+    height: 400px;
+    width: 300px;
+    padding: 30px;
+}
+.casual button{
+    margin-top: 30px;
+    margin-left: 500px;
+    padding: 5px 15px 5px 15px ;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(231, 231, 238);
+    
+    color: rgb(10, 70, 122);
+    margin-bottom: 10px;
+}
+.child{
+    display: flex;
+    margin-left: 250px;
+}
+.children img{
+    
+    height: 400px;
+    width: 300px;
+    padding: 30px;
+}
+.discounts{
+    display: flex;
+}
